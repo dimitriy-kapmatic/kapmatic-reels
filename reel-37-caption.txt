@@ -1,8 +1,8 @@
-Pet groomers: a caller asks one thing, "How much is a groom?" If you only say a number, the call ends there.
+Groomers: someone calls and asks how much. Don't just say a number, or the call ends there.
 
 1. First, ask about their dog.
 2. Then give your price for that groom.
-3. And offer a time: "When would you like to come in?"
+3. And offer a time right away: "I have Thursday at 10. Want it?"
 
 The goal of the call is the booking. The prices on screen are a made-up example.
 
